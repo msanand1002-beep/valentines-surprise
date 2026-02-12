@@ -1,0 +1,176 @@
+{
+  "names": {
+    "sender": "Anand",
+    "receiver": "Kannamma"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts,Ammu",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "Our first special moment together"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "caption": "An unofficial first picture of Us"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "caption": "My first ever Love letter from My Sweetheart"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "caption": "The moment I felt the whole world is nothing"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "caption": "Yeah.. thats me holding my life in single hand"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "caption": "Indeed,Love you to the core Ammu"
+    },
+     {
+      "image": "/src/assets/couple_photo/couple_photo_7.jpg",
+      "caption": "The first time You wrote our names together"
+    },
+     {
+      "image": "/src/assets/couple_photo/couple_photo_8.jpg",
+      "caption": "Love every single moment being with you Ammu"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I will make you laugh,even in a bad mood"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your Personal Assistant for lifetime without compliant"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live standup comedies for your entire life🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Nee-Partha",
+      "duration": "04:24",
+      "album": "Moonu",
+      "artist": "Anirudh",
+      "cover": "/src/assets/album-covers/Nee-Partha.jpg",
+      "audio": "/src/assets/songs/Nee-Partha.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Innum-Konjam-Neram",
+      "duration": "05:13", 
+      "album": "Mariyan",
+      "artist": "A.R.Rahuman",
+      "cover": "/src/assets/album-covers/Innum-Konjam-Neram.jpg",
+      "audio": "/src/assets/songs/Innum-Konjam-Neram.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Mulumathy-Avalathu-Mugaam",
+      "duration": "05:12",
+      "album": "Jodha Akbar",
+      "artist": "A.R.Rahuman",
+      "cover": "/src/assets/album-covers/Mulumathy-Avalathu-Mugaam.jpg",
+      "audio": "/src/assets/songs/Mulumathy-Avalathu-Mugaam.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Unnaivida",
+      "duration": "06:25",
+      "album": "Virumandi",
+      "artist": "Kamal hassan",
+      "cover": "/src/assets/album-covers/Unnaivida.jpg",
+      "audio": "/src/assets/songs/Unnaivida.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Urugudhe-Maragudhe",
+      "duration": "05:56",
+      "album": "Veyil",
+      "artist": "G.V.Prakash",
+      "cover": "/src/assets/album-covers/Urugudhe-Maragudhe.jpg",
+      "audio": "/src/assets/songs/Urugudhe-Maragudhe.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Ammu Thangoo,",
+    "content": [
+      "You my Angel literaly lighten up my whole day,You make me feel I am blessed just by bring with me,My heart is rent free for u to stay lifetime dear girl .",
+      "Loving you comes so naturally.You just there for my taking,I know that i am so obessessed in Your physic,look in the mirror..u will get obessessed too.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me..will Love U till I die..."
+    ],
+    "signature": "Forever completely yours ,\nAnand"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
